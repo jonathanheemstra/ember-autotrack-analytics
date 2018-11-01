@@ -16,7 +16,7 @@ module.exports = {
 
       content = `
         <script>
-        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+          window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
           ga('create', 'UA-5025626-34', 'auto');
 
           ga('require', 'eventTracker');

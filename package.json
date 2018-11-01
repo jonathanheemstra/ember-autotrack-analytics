@@ -1,13 +1,16 @@
 {
   "name": "ember-autotrack-analytics",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanheemstra/ember-autotrack-analytics.git"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "Jonathan Heemstra",
   "directories": {
     "doc": "doc",
     "test": "tests"
